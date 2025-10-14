@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+from .puzzle import * # noqa
 
 setup(
     name="libsolver",
