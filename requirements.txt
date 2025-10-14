@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+plotly>=5.0
+ipykernel>=6.0
+
+jupyterlab>=4.0
+notebook>=7.0
