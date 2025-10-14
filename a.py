@@ -1,3 +1,3 @@
-import libsolver
+import libsolver.puzzle as libsolver
 
-libsolver.Puzzle.make_solvable()
+print(libsolver.P)
