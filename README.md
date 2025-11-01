@@ -95,7 +95,7 @@ A escolha do `IntEnum` permite que as ações sejam tratadas de forma mais segur
 Metódos:
 - `opposite`: Método estático que Retorna a ação oposta da ação atual. Por exemplo, se a ação for `UP`, a ação oposta será `DOWN`. Isso é útil para reverter ações em algoritmos de busca ou para evitar movimentos redundantes.
 - `inverse`: Propriedade da instância que retorna a ação oposta da ação atual, utilizando o método `opposite`. Isso permite acessar a ação oposta de forma mais intuitiva e direta.
-```python
+
 
 ## Modelagem e implementação
 
